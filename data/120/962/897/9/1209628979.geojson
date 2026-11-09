@@ -38,7 +38,7 @@
         "gn:id":901143
     },
     "wof:country":"ZM",
-    "wof:geomhash":"019ae0566296b5a4ad3ea01201719326",
+    "wof:geomhash":"1db5eb6aea48828060825189cf5600e7",
     "wof:hierarchy":[
         {
             "country_id":85632559,
@@ -61,5 +61,5 @@
     24.36667000000001,
     -17.46667
 ],
-  "geometry": {"coordinates":[24.36667000000001,-17.46667],"type":"Point"}
+  "geometry": {"coordinates":[24.36667,-17.46667],"type":"Point"}
 }

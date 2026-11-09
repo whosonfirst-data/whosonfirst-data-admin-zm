@@ -53,7 +53,7 @@
         "gn:id":896418
     },
     "wof:country":"ZM",
-    "wof:geomhash":"abacb2145284c40b7cb06fc75335c065",
+    "wof:geomhash":"5f46e977f52f2c9f86589c3ef775613b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,5 +79,5 @@
     32.08333,
     -14.0
 ],
-  "geometry": {"coordinates":[32.08333,-14.0],"type":"Point"}
+  "geometry": {"coordinates":[32.08333,-14],"type":"Point"}
 }
