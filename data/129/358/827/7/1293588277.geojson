@@ -131,12 +131,6 @@
     "name:vol_x_preferred":[
         "George"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4e54\u6cbb\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u55ac\u6cbb\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -160,7 +154,7 @@
         }
     ],
     "wof:id":1293588277,
-    "wof:lastmodified":1636501916,
+    "wof:lastmodified":1794999722,
     "wof:name":"George",
     "wof:parent_id":1108782469,
     "wof:placetype":"locality",

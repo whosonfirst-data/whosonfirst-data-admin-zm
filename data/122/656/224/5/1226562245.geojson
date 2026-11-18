@@ -95,12 +95,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Saint Mary's"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u739b\u4e3d\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u746a\u9e97\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -124,7 +118,7 @@
         }
     ],
     "wof:id":1226562245,
-    "wof:lastmodified":1636501946,
+    "wof:lastmodified":1794999722,
     "wof:name":"Saint Mary's",
     "wof:parent_id":1108782375,
     "wof:placetype":"locality",
