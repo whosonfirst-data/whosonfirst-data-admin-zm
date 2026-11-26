@@ -1,0 +1,75 @@
+{
+  "id": 9895089786,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48369,-17.02581,26.48369,-17.02581",
+    "geom:latitude":-17.02581,
+    "geom:longitude":26.48369,
+    "gn:population":30781,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 915086: name \"Kalomo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/915086"
+        },
+        {
+            "citation":"GeoNames populated place 915086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/915086"
+        },
+        {
+            "citation":"GeoNames populated place 915086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/915086"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782481 (Kalomo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681079,
+        102191573,
+        1108782481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":915086
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"09a2a6c3cf26855f9c6ea04079436fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782481,
+            "locality_id":9895089786,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":9895089786,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Kalomo",
+    "wof:parent_id":1108782481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48369,
+    -17.02581,
+    26.48369,
+    -17.02581
+],
+  "geometry": {"coordinates":[26.48369,-17.02581],"type":"Point"}
+}

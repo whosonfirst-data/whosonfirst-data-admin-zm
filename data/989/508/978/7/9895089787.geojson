@@ -1,0 +1,74 @@
+{
+  "id": 9895089787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,-13.95,32.85,-13.95",
+    "geom:latitude":-13.95,
+    "geom:longitude":32.85,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 921029: name \"Chadiza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/921029"
+        },
+        {
+            "citation":"GeoNames populated place 921029: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/921029"
+        },
+        {
+            "citation":"GeoNames populated place 921029: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/921029"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782385 (Chadiza), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681065,
+        102191573,
+        1108782385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921029
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"7803ca87399e78c902f5218f76b7b40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782385,
+            "locality_id":9895089787,
+            "region_id":85681065
+        }
+    ],
+    "wof:id":9895089787,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Chadiza",
+    "wof:parent_id":1108782385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    -13.95,
+    32.85,
+    -13.95
+],
+  "geometry": {"coordinates":[32.85,-13.95],"type":"Point"}
+}

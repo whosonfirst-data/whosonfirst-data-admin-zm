@@ -1,0 +1,74 @@
+{
+  "id": 9895089788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68386,-12.8549,27.68386,-12.8549",
+    "geom:latitude":-12.8549,
+    "geom:longitude":27.68386,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450707: name \"Chati\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450707"
+        },
+        {
+            "citation":"GeoNames populated place 12450707: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450707"
+        },
+        {
+            "citation":"GeoNames populated place 12450707: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450707"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782375 (Lufwanyama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681063,
+        102191573,
+        1108782375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450707
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"6e90a1ac64563df37194369d5a12841e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782375,
+            "locality_id":9895089788,
+            "region_id":85681063
+        }
+    ],
+    "wof:id":9895089788,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Chati",
+    "wof:parent_id":1108782375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68386,
+    -12.8549,
+    27.68386,
+    -12.8549
+],
+  "geometry": {"coordinates":[27.68386,-12.8549],"type":"Point"}
+}
