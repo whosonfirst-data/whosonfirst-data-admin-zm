@@ -1,0 +1,75 @@
+{
+  "id": 9895089797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.37416,-15.35454,28.37416,-15.35454",
+    "geom:latitude":-15.35454,
+    "geom:longitude":28.37416,
+    "gn:population":80782,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132727: name \"Madido\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132727"
+        },
+        {
+            "citation":"GeoNames populated place 13132727: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132727"
+        },
+        {
+            "citation":"GeoNames populated place 13132727: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132727"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782415 (Chongwe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681073,
+        102191573,
+        1108782415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132727
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"357422fb0358cf679e5844a09cdca385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782415,
+            "locality_id":9895089797,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":9895089797,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Madido",
+    "wof:parent_id":1108782415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.37416,
+    -15.35454,
+    28.37416,
+    -15.35454
+],
+  "geometry": {"coordinates":[28.37416,-15.35454],"type":"Point"}
+}

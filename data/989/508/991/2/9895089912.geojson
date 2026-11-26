@@ -1,0 +1,74 @@
+{
+  "id": 9895089912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.54527,-10.95366,28.54527,-10.95366",
+    "geom:latitude":-10.95366,
+    "geom:longitude":28.54527,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607548: name \"Mumba Thomas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607548"
+        },
+        {
+            "citation":"GeoNames populated place 13607548: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607548"
+        },
+        {
+            "citation":"GeoNames populated place 13607548: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607548"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782403 (Mansa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681047,
+        102191573,
+        1108782403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607548
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"c27c32c64d7547c8a5c0ad5a5d09073c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782403,
+            "locality_id":9895089912,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":9895089912,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Mumba Thomas",
+    "wof:parent_id":1108782403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.54527,
+    -10.95366,
+    28.54527,
+    -10.95366
+],
+  "geometry": {"coordinates":[28.54527,-10.95366],"type":"Point"}
+}

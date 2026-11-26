@@ -1,0 +1,74 @@
+{
+  "id": 9895090018,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71125,-10.6865,28.71125,-10.6865",
+    "geom:latitude":-10.6865,
+    "geom:longitude":28.71125,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13626418: name \"Muwa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13626418"
+        },
+        {
+            "citation":"GeoNames populated place 13626418: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13626418"
+        },
+        {
+            "citation":"GeoNames populated place 13626418: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13626418"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782409 (Mwense), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681047,
+        102191573,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13626418
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"b2037e452f1d8476b83c394d5afdde94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":9895090018,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":9895090018,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Muwa",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71125,
+    -10.6865,
+    28.71125,
+    -10.6865
+],
+  "geometry": {"coordinates":[28.71125,-10.6865],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895089807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8881,-17.86877,25.8881,-17.86877",
+    "geom:latitude":-17.86877,
+    "geom:longitude":25.8881,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13592054: name \"Mulala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13592054"
+        },
+        {
+            "citation":"GeoNames populated place 13592054: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13592054"
+        },
+        {
+            "citation":"GeoNames populated place 13592054: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13592054"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782485 (Livingstone), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681079,
+        102191573,
+        1108782485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13592054
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"a916b78dd738d3cc48b8bb7bbee4bde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782485,
+            "locality_id":9895089807,
+            "region_id":85681079
+        }
+    ],
+    "wof:id":9895089807,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Mulala",
+    "wof:parent_id":1108782485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8881,
+    -17.86877,
+    25.8881,
+    -17.86877
+],
+  "geometry": {"coordinates":[25.8881,-17.86877],"type":"Point"}
+}

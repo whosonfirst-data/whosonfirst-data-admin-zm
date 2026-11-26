@@ -1,0 +1,75 @@
+{
+  "id": 9895089783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16142,-8.66043,29.16142,-8.66043",
+    "geom:latitude":-8.66043,
+    "geom:longitude":29.16142,
+    "gn:population":15165,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 177748: name \"Chiengi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/177748"
+        },
+        {
+            "citation":"GeoNames populated place 177748: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/177748"
+        },
+        {
+            "citation":"GeoNames populated place 177748: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/177748"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782399 (Chiengi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681047,
+        102191573,
+        1108782399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177748
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"3595dd1ddb4d20afb64d9978d3186383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782399,
+            "locality_id":9895089783,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":9895089783,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Chiengi",
+    "wof:parent_id":1108782399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16142,
+    -8.66043,
+    29.16142,
+    -8.66043
+],
+  "geometry": {"coordinates":[29.16142,-8.66043],"type":"Point"}
+}

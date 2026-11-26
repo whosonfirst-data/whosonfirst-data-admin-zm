@@ -1,0 +1,75 @@
+{
+  "id": 9895089794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.35099,-15.48211,28.35099,-15.48211",
+    "geom:latitude":-15.48211,
+    "geom:longitude":28.35099,
+    "gn:population":41014,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132724: name \"Chisankane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132724"
+        },
+        {
+            "citation":"GeoNames populated place 13132724: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132724"
+        },
+        {
+            "citation":"GeoNames populated place 13132724: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132724"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782421 (Lusaka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681073,
+        102191573,
+        1108782421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132724
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"2fd9cb776f120ff92d518e385473af22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782421,
+            "locality_id":9895089794,
+            "region_id":85681073
+        }
+    ],
+    "wof:id":9895089794,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Chisankane",
+    "wof:parent_id":1108782421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.35099,
+    -15.48211,
+    28.35099,
+    -15.48211
+],
+  "geometry": {"coordinates":[28.35099,-15.48211],"type":"Point"}
+}

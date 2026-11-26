@@ -1,0 +1,74 @@
+{
+  "id": 9895089806,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05514,-15.04049,24.05514,-15.04049",
+    "geom:latitude":-15.04049,
+    "geom:longitude":24.05514,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589604: name \"Lububa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589604"
+        },
+        {
+            "citation":"GeoNames populated place 13589604: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589604"
+        },
+        {
+            "citation":"GeoNames populated place 13589604: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589604"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782499 (Kaoma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681083,
+        102191573,
+        1108782499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589604
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"60a1b41b9e4f738a43c573f5c17ce956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782499,
+            "locality_id":9895089806,
+            "region_id":85681083
+        }
+    ],
+    "wof:id":9895089806,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Lububa",
+    "wof:parent_id":1108782499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05514,
+    -15.04049,
+    24.05514,
+    -15.04049
+],
+  "geometry": {"coordinates":[24.05514,-15.04049],"type":"Point"}
+}

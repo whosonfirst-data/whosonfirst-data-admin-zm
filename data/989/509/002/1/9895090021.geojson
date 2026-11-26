@@ -1,0 +1,74 @@
+{
+  "id": 9895090021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.72237,-10.68129,28.72237,-10.68129",
+    "geom:latitude":-10.68129,
+    "geom:longitude":28.72237,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13626422: name \"Chinuna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13626422"
+        },
+        {
+            "citation":"GeoNames populated place 13626422: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13626422"
+        },
+        {
+            "citation":"GeoNames populated place 13626422: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13626422"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782409 (Mwense), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681047,
+        102191573,
+        1108782409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13626422
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"722ca25658cbd30b54ca2a3d939757f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782409,
+            "locality_id":9895090021,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":9895090021,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Chinuna",
+    "wof:parent_id":1108782409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72237,
+    -10.68129,
+    28.72237,
+    -10.68129
+],
+  "geometry": {"coordinates":[28.72237,-10.68129],"type":"Point"}
+}

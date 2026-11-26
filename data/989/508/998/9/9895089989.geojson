@@ -1,0 +1,74 @@
+{
+  "id": 9895089989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.80165,-10.9339,28.80165,-10.9339",
+    "geom:latitude":-10.9339,
+    "geom:longitude":28.80165,
+    "iso:country":"ZM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13624064: name \"Chiputa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13624064"
+        },
+        {
+            "citation":"GeoNames populated place 13624064: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13624064"
+        },
+        {
+            "citation":"GeoNames populated place 13624064: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13624064"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782403 (Mansa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632559,
+        85681047,
+        102191573,
+        1108782403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13624064
+    },
+    "wof:country":"ZM",
+    "wof:geomhash":"dbdf2e6cb6f8f220a2b78fe4f81906be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632559,
+            "county_id":1108782403,
+            "locality_id":9895089989,
+            "region_id":85681047
+        }
+    ],
+    "wof:id":9895089989,
+    "wof:lastmodified":1795735051,
+    "wof:name":"Chiputa",
+    "wof:parent_id":1108782403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-zm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.80165,
+    -10.9339,
+    28.80165,
+    -10.9339
+],
+  "geometry": {"coordinates":[28.80165,-10.9339],"type":"Point"}
+}
